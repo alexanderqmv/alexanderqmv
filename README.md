@@ -8,13 +8,13 @@
 </div>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alexanderqmv&label=Profile%20views&color=0e75b6&style=flat" alt="alexanderqmv" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alexanderqmv&label=Profile%20views&color=0e75b6&style=flat" alt="alexanderqmv" /> <br><br><br></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexanderqmv" alt="alexanderqmv" /></a> </p>
-
-
+ 
 
 
+
+# 🚀 About Me
 - 🔭 I’m currently working on **my projects**
 
 - 🌱 I’m currently learning **Rust, Solidity, C++**
@@ -24,6 +24,7 @@
 - 📫 How to reach me **qmvscorpio@gmail.com**
 
 
+# 😋 I use
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderqmv&theme=dark)
 
 
